@@ -1,4 +1,4 @@
-# Tree of Thoughts 🌳🌲🌴🌿🍃
+# LogicSages's Fork of Tree of Thoughts 🌳🌲🌴🌿🍃
 
 ![tree of thoughts banner](tree-of-thoughts.jpeg)
 
